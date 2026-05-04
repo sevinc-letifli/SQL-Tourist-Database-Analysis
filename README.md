@@ -63,3 +63,11 @@ Bu analizlər aşağıdakı sahələr üçün faydalıdır:
 
 # Nəticə
 Bu layihə SQL istifadə edərək real dünya tipli turist məlumat bazası üzərində analitik düşüncə və sorğu yazma bacarıqlarımı nümayiş etdirir. Layihə həm texniki SQL biliklərini, həm də data analysis yanaşmasını göstərir.
+
+Ən çox ölkə səyahət edən turistlərin adları:
+<img width="1443" height="812" alt="image (18)" src="https://github.com/user-attachments/assets/3e2d65bd-2034-4c2d-97d4-b4968cd356b0" />
+Ən azyaşlı turistin məlumatları:
+<img width="1438" height="810" alt="image (20)" src="https://github.com/user-attachments/assets/4a7f6ff8-a2e7-449b-ac8a-e4b0cc0ec0d6" />
+Yaşı 20-dən çox olan qadınların vətəndaşlığı:<img width="1332" height="820" alt="image (21)" src="https://github.com/user-attachments/assets/593fbb9e-e894-44c2-9c5b-a4a820c046f7" />
+
+
